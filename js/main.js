@@ -1,3 +1,6 @@
-const myVariable = 'Mathematics';
+// strings
 
-console.log('every good boy does fine'.split(' '));
+const myVariable = "Mathematics";
+
+//The length property
+console.log(myVariable.length);
